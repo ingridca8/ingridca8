@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ingridca8's Stats](https://github-readme-stats.vercel.app/api?username=ingridca8&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ![ingridca8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ingridca8&theme=tokyonight&hide_border=false)
+
 ![ingridca8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridca8&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
